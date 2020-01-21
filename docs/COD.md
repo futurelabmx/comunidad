@@ -2,6 +2,17 @@
 
 **TL; DR. Se respetuoso.** El acoso y el abuso nunca son tolerados. Si te encuentras en una situación que te incomoda dentro de Future Lab, si alguna de las actividades o proyectos en sí mismo está creando un ambiente inseguro o inapropiado, o si interactuar con un miembro u colaborador de la comunidad te incomoda, infórmanos utilizando los procedimientos incluidos en este documento.
 
+## Tabla de contenidos
+
+1. [¿Por qué es necesario un código de conducta?](#¿por-qué-es-necesario-un-código-de-conducta?)
+2. [Nuestra promesa](#nuestra-promesa)
+3. [Nuestros estándares](#nuestros-estándares)
+4. [Nuestras responsabilidades](#nuestras-responsabilidades)
+5. [Alcance](#alcance)
+6. [Contacto](#contacto)
+7. [Letras pequeñas](#letras-pequeñas)
+8. [Atribuciones](#atribuciones)
+
 ## ¿Por qué es necesario un código de conducta?
 
 Un código de conducta es un documento que establece expectativas de comportamiento para los participantes de la comunidad. Adoptar y aplicar un código de conducta, ayuda a crear una atmosfera social positiva para la misma.
