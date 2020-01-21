@@ -44,7 +44,7 @@ Este código de conducta se aplica tanto dentro de los espacios de la comunidad 
 
 ## Contacto
 
-Los casos de comportamiento abusivo, de acoso o inaceptables pueden comunicarse al equipo de coordinadores en [ricardomirontorres@gmail.com] o [rodolfoferroperez@gmail.com]. Todas las quejas serán revisadas e investigadas y darán como resultado una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo de la comunidad está obligado a mantener la confidencialidad con respecto al reporte de un incidente.
+Los casos de comportamientos abusivos, de acoso o inaceptables pueden comunicarse al equipo de coordinadores en [ricardomirontorres@gmail.com] o [rodolfoferroperez@gmail.com]. Todas las quejas serán revisadas e investigadas y darán como resultado una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo de la comunidad está obligado a mantener la confidencialidad con respecto al reporte de un incidente.
 
 ## Letras pequeñas
 
