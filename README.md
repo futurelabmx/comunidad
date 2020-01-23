@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://futurelab.mx/images/futurelab-landscape.png" width="400" alt="Codeando México"><br><br>
+<img src="https://futurelab.mx/images/futurelab-landscape.png" width="400" alt="Future Lab"><br><br>
 <a href="https://futurelab.mx/" target="_blank"><img src="https://img.shields.io/badge/website-Future%20Lab-success"></a>
 <a href="https://drive.google.com/open?id=1p4ahpD7GXbd-Qh60tVjU_xkIgQhTw3fi" target="_blank"><img src="https://img.shields.io/badge/recursos-Google%20Drive-yellow"></a>
 <a href="https://www.facebook.com/f.lab.mx/" target="_blank"><img src="https://img.shields.io/badge/social-Facebook-blue"></a>
