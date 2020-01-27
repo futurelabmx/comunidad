@@ -49,11 +49,3 @@ Los principales valores que nos unen como comunidad son:
 ## Imagen
 
 > _TO-DO: Describir qué significa nuestro logo, el cohete, los colores, el uso de emojis, el contenido que publicamos en redes, etc._
-
-#### Redes sociales y otros medios digitales
-
-- Facebook
-- Twitter
-- Instragram
-- Medium
-- GitHub
