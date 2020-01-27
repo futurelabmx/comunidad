@@ -13,7 +13,7 @@ Aquí puedes encontrar los principios, prácticas y guías de colaboración de l
 
 _"Comunidad"_ significa algo diferente para cada persona, así que hemos desarrollado esta herramienta con la esperanza de apoyar a cualquier persona a crear sentido de pertenencia y hacer que se sientan como si pertenecieran, sin importar si eres un estudiante, un profesional o simplemente un entusiasta de la ciencia y tecnología.
 
-## Tabla de contenidos
+## Tabla de documentos
 
 - [Identidad](docs/IDENTIDAD.md)
 - [Experiencia](docs/EXPERIENCIA.md)
