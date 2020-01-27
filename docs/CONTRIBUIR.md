@@ -7,11 +7,11 @@ Hemos reunido una serie de recomendaciones para ayudarte a descubrir dónde y c�
 ## Tabla de contenidos
 
 1. [Tipos de contribuciones que estamos buscando](#Tipos-de-contribuciones-que-estamos-buscando)
-2. [Reglas básicas y expectativas](#ground-rules--expectations)
-3. [Crear - desarrollo de proyectos](#how-to-contribute)
+2. [Reglas básicas y expectativas](#Reglas-básicas-y-expectativas)
+3. [Contribuir en alguno de los repositorios de Future Lab](#Contribuir-en-alguno-de-los-repositorios-de-Future-Lab)
 4. [Compartir - divulgación de ciencia y tecnología](#style-guide)
 5. [Colaborar - alianzas con otras organizaciones](#setting-up-your-environment)
-6. [Otros detalles](#community)
+6. [Otros detalles](#Otros-detalles)
 
 ## Tipos de contribuciones que estamos buscando
 
@@ -31,30 +31,17 @@ Para contribuir, primero discute tu propuesta a través de alguno de nuestros ca
 Antes de comenzar, aquí hay algunas cosas que esperamos de ti (y que se deben esperar de otros):
 
 * Se amable y reflexivo en tus conversaciones sobre la aportación que realizas. Todos venimos de diferentes orígenes y proyectos, lo que significa que probablemente tengamos diferentes perspectivas sobre _"cómo se debe hacer"_. Intenta escuchar a los demás en lugar de convencerlos de que tu camino es correcto.
-* Las proyectos y actividades se realizan con un [Código de Conducta](./COD.md). Al participar, aceptas cumplir con sus términos y condiciones.
+* Los proyectos y actividades se realizan con un [Código de Conducta](./COD.md). Al participar, aceptas cumplir con sus términos y condiciones.
 * Al hacer una contrbución, considera si es relamente valioso. Por favor, no añadas referencias, información o propuestas a cosas que estén fuera de los objetivos de la comunidad.
 
-## Crear
-
-If you'd like to contribute, start by searching through the [issues](https://github.com/github/opensource.guide/issues) and [pull requests](https://github.com/github/opensource.guide/pulls) to see whether someone else has raised a similar idea or question.
-
-If you don't see your idea listed, and you think it fits into the goals of this guide, do one of the following:
-* **If your contribution is minor,** such as a typo fix, open a pull request.
-* **If your contribution is major,** such as a new guide, start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
-
 ## Contribuir en alguno de los repositorios de Future Lab
-Si estás escribiendo contenido, consulte la [guía de estilo](./docs/styleguide.md) para que su prosa coincida con el resto de las Guías.
+Si deseas contribuir, comienza por buscar en las [*issues*](https://github.com/github/opensource.guide/issues) y [*pull requests*](https://github.com/github/opensource.guide/pulls) para saber si alguien más ha presentado una idea o pregunta similar.
 
-## Setting up your environment
+Si tu idea no se encuentra enlistada y piensas que tu idea se ajusta a las metas y expectativas presentadas en esta guía, deberás hacer algo de lo siguiente:
+* **Si tu contribución es un cambio menor,** como una corrección ortográfica, abre un *pull request*.
+* **Si tu contribución es un cambio mayor,** como una nueva guía, comienza abriendo una propuesta (*issue*) primero. De esta forma, otras personas podrán aportar a la discusión antes de comenzar el trabajo.
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/).
-
-Once you have that set up, run:
-
-    script/bootstrap
-    script/server
-
-…and open http://localhost:4000 in your web browser.
+Si estás escribiendo contenido, consulta la [guía de estilo](./docs/styleguide.md) para que tu prosa coincida con el resto de las Guías.
 
 ## Pull Requests
 
