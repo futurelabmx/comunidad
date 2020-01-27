@@ -20,7 +20,7 @@ _"Comunidad"_ significa algo diferente para cada persona, así que hemos desarro
 - [Estructura](docs/ESTRUCTURA.md)
 - [Herramientas](docs/HERRAMIENTAS.md)
 - [Código de Conducta](docs/COD.md)
-- [Contribuir](docs/CONTRIBUIRS.md)
+- [Contribuir](docs/CONTRIBUIR.md)
 
 ## Contribuir a esta guía
 
