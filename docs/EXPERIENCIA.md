@@ -62,7 +62,18 @@ Como tal Future Lab no tiene un reglamente riguroso que se deba cumplir, confiam
 
 > _TO-DO: Describir cómo es el proceso para unirse y qué hay que hacer._
 
-- Convocatoria/ invitación.
-- Proceso de selección.
-- Entrevista.
-- Retroalimentación.
+- **Convocatoria/ invitación.**
+El primer acercamiento para formar parte de la comunidad es mediante una convocatoria la cual se abre cada año mediante un formulario de Google el cual se comparte mediante nuestras redes sociales. Otra forma de entrar es mediante invitación de algún miembro.
+
+- **Entrevista.**
+Para conocer más acerca de cada aspirante se realiza una entrevista personal a cada uno, se le preguntan varios aspectos como:
+- Gustos e intereses
+- ¿Qué hace?
+- ¿Qué le gustaría aportar?
+Las entrevistas son realizadas por los coordinadores del Lab.
+
+- **Proceso de selección.**
+El proceso de selección se hace a continuación de la entrevista, analizando si el aspirante cumple con las aptitudes y entusiasmo para formar parte de Future Lab. Se lleva a cabo por miembros del Lab.
+
+- **Retroalimentación.**
+
