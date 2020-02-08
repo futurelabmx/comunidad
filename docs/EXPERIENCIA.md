@@ -42,9 +42,9 @@ El hecho de ser una comunidad significa que pertenecemos a la misma por desició
 
 - **Participación.** Se espera que los miembros sean participativos y propositivos. Que no esperen indicaciones, que propongan y se involucren sin miedo, haciéndose notar y retándose a si mismos.
 
-- **Dedicación.**
+- **Dedicación.** Se espera que los miembros cuenten con la dedicación y empeño necesarios que los impulse a colaborar y/o presentar ideas de proyecto dentro de la comunidad.
 
-- **Compromiso.**
+- **Compromiso.** Se pretende que los miembros adquieran el compromiso de participación y colaboración dentro de la comunidad.
 
 #### Reglas
 
@@ -57,6 +57,8 @@ Como tal Future Lab no tiene un reglamente riguroso que se deba cumplir, confiam
 ## Beneficios
 
 > _TO-DO: Describir que se gana al formar parte de la comunidad. Experiencias, conociemiento, herramientas, etc._
+
+Future Lab es una muy bonita comunidad en la cual tendras la oportunidad de colaborar con personas de mucha experiencia dentro y fuera de la comunidad, por lo que la oportunidad de adquirir muchos nuevos conocimientos estara presente. Las experiencias que te genera a la hora de realizar y/o asistir a eventos son increibles ya que te rodeas de gente muy positiva. Conoceras gente muy inreible de otras comunidades y cuidades ya que Future Lab cuenta con muchas alianzas.
 
 ## Unirse a la comunidad
 
