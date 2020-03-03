@@ -12,13 +12,30 @@ La identidad de la comunidad son los principios, prácticas y lineamientos, con 
 
 ## Propósito
 
-> _TO-DO: Describir el prósito de la comunidad ¿qué esperamos alcanzar? ¿cuál es nuestra contribución al mundo, a nuestros miembros y al campo de la ciencia y la tecnología?._
+> _Crear un laboratorio de innovación, dedicado al desarrollo de proyectos de base
+científica y tecnológica para resolver problemáticas actuales y de alto impacto,
+así como realizar actividades que incentiven la participación e innovación por
+parte de la comunidad estudiantil. El cual sea conformado por estudiantes
+multidisciplinarios de México que aporten valor al entorno y favorezcan la colaboración, dirigidos por un grupo núcleo que lleve el liderazgo del mismo y sean asesorados por académicos y experto
+(consejo asesor)._
 
 #### ¿Qué es Future Lab?
-> _TO-DO: Explicar qué y quiénes somos._
+> _Desarrollamos proyectos de alto impacto, a través de la creación de un Laboratorio
+de Innovación Tecnológica (LIT), que promueva la generación y aplicación de
+conocimiento científico, y que permita la estructuración de una red de talento
+multidisciplinario, y cuya aplicación, resolverá necesidades de instituciones
+educativas, de gobierno y empresas privadas del Estado de Guanajuato, en
+materia científica y tecnológica._
 
 #### ¿Por qué existe la comunidad?
-> _TO-DO: Explicar cuáles son nuestros objetivos y qué buscamos alcanzar._
+> _La ciencia y la tecnología son pilares fundamentales que determinan el
+desarrollo de las sociedades modernas. Los jóvenes son el motor que impulsan
+la generación de iniciativas que promuevan el bienestar de todos los individuos.
+Es un hecho que, en la actualidad, el desarrollo de nuevas tecnologías crece a
+grandes pasos, por ello resulta ser imprescindible la adquisición de nuevo
+conocimiento y nuevas herramientas que nos permitan estar a la vanguardia en
+la evolución tecnológica que vivimos día a día, además de darnos la capacidad
+de ser entes creadores que contribuyan a esta misma evolución._
 
 - **Crear.** Desarrollar proyectos sociales, académicos o personales que utilicen tecnología.
 - **Compartir.** Divulgación de la ciencia y el conocimiento entre la comunidad.
@@ -26,25 +43,55 @@ La identidad de la comunidad son los principios, prácticas y lineamientos, con 
 
 ## Identidad de los miembros
 
-> _TO-DO: Describir cuáles son las características comunes que nos unen y nos dan sentido de pertenencia._
+> _Personas apasionadas por la ciencia y tecnologia con iniciativa para dar soluciones a diversas problematicas._
 
 #### ¿Para quién es la comunidad?
-> _TO-DO: Describir que tipo de personas buscamos y por qué, que nos hace especiales y diversos._
+> _Población guanajuatense de entre 18 y 35 años de edad que cumplan con el perfil de alguna de las categorías. El participante predisponga las habilidades y capacidades de los perfiles clasificados (experto en área, Negocios, Diseño o Programador)._
 
 #### ¿Cuál es el perfil de los miembros que la componen?
-> _TO-DO: Describir el perfil de los miembros: donde viven, trabajan, estudian, las experiencias que compartimos, el ámbito social, etc._
+> _Reunir perfiles específicos (Maker, Business, Design y Experto en Área), a través de una selección de personas de las mismas, durante una noche de desarrollo de iniciativas; en la cual se genere networking, entendimiento, aplicaciones y posibles soluciones a problemáticas o necesidades concretas, en el tiempo y espacio designado. 
+Generar grupos autodirigidos mediante la reunión estratégica de perfiles que diseñen, planeen, ejecuten, y den seguimiento a los proyectos seleccionados, a través del acompañamiento de mentores, especialistas y expertos, en diversas temáticas._
 
 ## Filosofía de la comunidad
 
-> _TO-DO: Describir ¿en qué creemos? **No poner una lista convencional de valores o principios**, si no una lista corta de cosas que nos definan._
+> _Crear un espacio, permanente y funcional, que permita la colaboración, vinculación,
+generación, y aplicación de conocimiento, entre jóvenes emprendedores,
+académicos y empresarios, a partir del periodo agosto-diciembre 2017 en el
+Estado de Guanajuato.
+Promover la generación y aplicación de conocimiento científico, a través de
+la capacitación constante (talleres y conferencias) y uso de herramientas
+tecnológicas (TICs), que permitan el desarrollo integral de los jóvenes del
+Estado de Guanajuato, durante los siguientes 2 años.
+Generar una red y vinculación de talento multidisciplinario, mediante el
+desarrollo de eventos locales y nacionales, que atiendan a la creación,
+desarrollo y aplicación de iniciativas que beneficien a la sociedad en la
+mejora de aspectos económicos, ambientales, educativos, científicos y
+tecnológicos._
 
 Los principales valores que nos unen como comunidad son:
 
-> _TO-DO: crear una lista de ¿qué es lo más importante para la comunidad?._
+> _Programas de difusión de conocimiento tecnológico como conferencias, talleres,
+mentorías y programas cortos para la comunidad._
 
 ## Indicadores de éxito
 
-> _TO-DO: Describir ¿en qué creemos? **No poner una lista convencional de valores o principios**, si no una lista corta de cosas que nos definan._
+> _Talleres y conferencias:
+
+Mentorías:
+
+Contenido:
+
+Desarrollo
+Proyectos desarrollados:
+Número de proyectos de innovación científica y tecnológica realizados al
+semestre.
+a) Hackatones.
+b) Proyectos de investigación y aplicación.
+c) Proyectos de comercialización.
+Colaboración
+Proyectos conjuntos:
+Cantidad de proyectos realizados en colaboración con otras instituciones u
+organizaciones._
 
 ## Imagen
 
