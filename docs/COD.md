@@ -1,4 +1,4 @@
-# Código de conducta [Future Lab](https://futurelab.mx/) 2020
+# Código de conducta Future Lab
 
 **TL; DR. Se respetuoso.** El acoso y el abuso nunca son tolerados. Si te encuentras en una situación que te incomoda dentro de Future Lab, si alguna de las actividades o proyectos en sí mismo está creando un ambiente inseguro o inapropiado, o si interactuar con un miembro u colaborador de la comunidad te incomoda, infórmanos utilizando los procedimientos incluidos en este documento.
 
