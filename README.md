@@ -51,4 +51,4 @@ También agradecemos el trabajo y conocimiento de las siguientes comunidades y p
 
 ## Licencia
 
-Este repositorio es principalmente para documentos. Todos los documentos y archivos tienen licencia [MIT license](LICENSE) © 2020 Future Lab.
+Este repositorio es principalmente para documentos. Todos los documentos y archivos tienen licencia [MIT license](LICENSE) © 2022 Future Lab.
